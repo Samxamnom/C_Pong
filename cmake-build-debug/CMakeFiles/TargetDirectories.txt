@@ -1,0 +1,3 @@
+C:/Users/Samxamnam/CLionProjects/CommandLineTest/cmake-build-debug/CMakeFiles/CommandLineTest.dir
+C:/Users/Samxamnam/CLionProjects/CommandLineTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samxamnam/CLionProjects/CommandLineTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
